@@ -1,8 +1,18 @@
 <div style="max-width: 600px; margin: auto; text-align: center; font-family: sans-serif;">
-  <h2>Olá! Eu sou o Wallace Junio</h2>
+  <h2>👨‍💻 Olá, eu sou o Wallace!</h2>
+
+  <p>Tenho 27 anos e resido atualmente em Belo Horizonte-MG.Sou desenvolvedor Full Stack com foco em criar aplicações web eficientes, escaláveis e com boa experiência de usuário. Tenho experiência no desenvolvimento de soluções que integram front-end e back-end, com atenção à qualidade do código e boas práticas de versionamento.
+  </p>
+
+
+  <br>
+  <br>
+
+  
   <p>🔭 Engenheiro de software | Dev Full Stack</p>
   <p>🌱 Estudando React e TypeScript</p>
   <p>😄 ele/dele</p>
+
 
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 15px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JS" height="30">
