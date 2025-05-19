@@ -9,7 +9,7 @@
   <br>
 
   
-  <p>🔭 Engenheiro de software | Dev Full Stack</p>
+  <p>🔭 Engenheiro de software / DEV</p>
   <p>🌱 Estudando React e TypeScript</p>
   <p>😄 ele/dele</p>
 
