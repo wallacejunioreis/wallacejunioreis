@@ -1,19 +1,40 @@
-## Olá, eu sou o Wallace! 👋
+## 👋 Olá, eu sou o Wallace!
 
-Tenho 27 anos e resido atualmente em **Belo Horizonte-MG**.  
-Sou desenvolvedor **Full Stack** com foco em criar aplicações web eficientes, escaláveis e com boa experiência de usuário.  
-Atualmente, meu grande diferencial é trabalhar com **Inteligência Artificial aplicada a agentes inteligentes**, integrando ferramentas modernas como:
+Tenho 28 anos e sou desenvolvedor e DBA, com forte atuação em dados, automação (powershell) e Inteligência Artificial aplicada.
 
-- ⚡ **n8n** → automação de fluxos e orquestração de agentes  
-- 💻 **Cursor** → IDE com suporte avançado a IA para desenvolvimento acelerado  
-- 🌐 **Lovable** → deploy rápido de chatbots e aplicações inteligentes  
+Atualmente foco na construção de aplicações web eficientes e escaláveis, além do desenvolvimento de **agentes inteligentes** integrados a fluxos reais de negócio.
 
 ---
 
-### 🚀 Engenheiro de Software / DEV
-- React e TypeScript  
-- Inteligência Artificial aplicada a soluções reais  
-- ele/dele  
+### 🚀 Tech Stack
+
+* 💻 **Frontend:** React, TypeScript
+* 🧠 **Inteligência Artificial:** Agentes inteligentes, automação com IA
+* ⚡ **Automação:** n8n, PowerShell
+* 🗄️ **Banco de Dados (DBA):** Modelagem, performance e otimização de queries
+* 🌐 **Ferramentas:** Cursor, Lovable
+
+---
+
+### 💡 Sobre mim
+
+Tenho como diferencial a combinação entre desenvolvimento, dados e automação, o que me permite criar soluções completas — desde a infraestrutura até a experiência final do usuário.
+
+Atuo com:
+
+* Criação de aplicações Full Stack
+* Automação de processos e integrações
+* Construção de agentes inteligentes
+* Otimização e gerenciamento de bancos de dados
+
+---
+
+### 📫 Contato
+
+wallace.junio.reis@gmail.com
+
+---
+
 
 ---
 
