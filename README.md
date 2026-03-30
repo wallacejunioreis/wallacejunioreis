@@ -1,85 +1,37 @@
-## 👋 Olá, eu sou o Wallace!
+### 🧠 What I Do
 
-Tenho 28 anos e sou desenvolvedor e DBA, com forte atuação em dados, automação (powershell) e Inteligência Artificial aplicada.
+I build end-to-end solutions that combine **data, automation, and artificial intelligence**, focusing on performance, scalability, and operational efficiency.
 
-Atualmente foco na construção de aplicações web eficientes e escaláveis, além do desenvolvimento de **agentes inteligentes** integrados a fluxos reais de negócio.
+#### 🔍 Data & Performance
 
----
+* Query optimization and performance tuning in SQL Server
+* Data modeling for scalable applications
+* Monitoring and maintaining critical database environments
 
-### 🚀 Tech Stack
+#### ⚙️ Automation & Scripting
 
-* 💻 **Frontend:** React, TypeScript
-* 🧠 **Inteligência Artificial:** Agentes inteligentes, automação com IA
-* ⚡ **Automação:** n8n, PowerShell
-* 🗄️ **Banco de Dados (DBA):** Modelagem, performance e otimização de queries
-* 🌐 **Ferramentas:** Cursor, Lovable
+* Process automation using PowerShell
+* System integration and operational workflows
+* Reducing manual tasks and improving efficiency
 
----
+#### 🤖 Applied Artificial Intelligence
 
-### 💡 Sobre mim
+* Building intelligent agents using n8n
+* Integrating AI into real-world business workflows
+* Designing automation driven by decision-making systems
 
-Tenho como diferencial a combinação entre desenvolvimento, dados e automação, o que me permite criar soluções completas — desde a infraestrutura até a experiência final do usuário.
+#### 🌐 Full Stack Development
 
-Atuo com:
-
-* Criação de aplicações Full Stack
-* Automação de processos e integrações
-* Construção de agentes inteligentes
-* Otimização e gerenciamento de bancos de dados
-
----
-
-### 📫 Contato
-
-wallace.junio.reis@gmail.com
+* Building web applications with React and TypeScript
+* Creating modern, user-focused interfaces
+* Integration with APIs and backend services
 
 ---
 
+### 🚀 Key Strength
 
----
+My main strength is the ability to work across the entire stack, connecting **infrastructure, data, automation, and user experience**.
 
-### 🛠️ Tecnologias
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JS" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TS" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" height="30"/>
-</div>
+This allows me not only to build systems, but to **optimize and automate complete processes**.
 
----
-
-### 🤖 Inteligência Artificial
-<div align="center">
-  <img src="https://img.shields.io/badge/AI-Agents-blue?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Automation-n8n-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IDE-Cursor-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deploy-Lovable-purple?style=for-the-badge"/>
-</div>
-
----
-
-### 📂 Projetos em Destaque
-- 🔹 **Agente Inteligente com n8n** → Orquestração de fluxos automatizados para chatbots  
-- 🔹 **Chatbot com Lovable** → Deploy rápido de assistentes inteligentes em produção  
-- 🔹 **Dev Workflow com Cursor** → Desenvolvimento acelerado com suporte de IA na IDE  
-
-*(Em breve adicionarei links para repositórios e demos!)*
-
----
-
-### 🌐 Conecte-se comigo
-<div align="center">
-  <a href="https://www.instagram.com/wallacej.r/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:wallace.junio.reis@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/wallace-junio-19b1b9275/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
 
